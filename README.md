@@ -1,4 +1,4 @@
-# PYRITE
+# Pyrite
 <h3 align="center">Pyrite is a passionate technology development team building creative software and systems.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pyrite-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pyrite-dev" /> </p>
