@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Es3hveMAQa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Es3hveMAQa" height="30" width="40" /></a> <a href="xmpp:nishbox@conference.nishi.boats?join"><img src="https://xmpp.org/images/logos/xmpp-logo-text.svg" alt="XMPP" height="40" width="40" /></a>
+<a href="https://discord.gg/Es3hveMAQa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Es3hveMAQa" height="30" width="40" /></a> <a href="xmpp:pyrite@conference.nishi.boats?join"><img src="https://xmpp.org/images/logos/xmpp-logo-text.svg" alt="XMPP" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
