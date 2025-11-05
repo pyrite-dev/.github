@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pyrite-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pyrite-dev" /> </p>
 
-- Project: [GoldFish](https://github.com/pyrite-dev/goldfish), [NishBox](https://github.com/pyrite-dev/nishbox/)
+- Project: [Milsko](https://github.com/pyrite-dev/milsko)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
