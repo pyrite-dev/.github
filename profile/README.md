@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pyrite-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pyrite-dev" /> </p>
 
 - Project: [Milsko](https://github.com/pyrite-dev/milsko)
+- Project: [MDE](https://github.com/pyrite-dev/mde)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
